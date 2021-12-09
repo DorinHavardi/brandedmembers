@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DorinHavardi/brandedmembers/static/css/main.67bd8c9c.chunk.css",
+    "main.js": "/DorinHavardi/brandedmembers/static/js/main.6f336ae8.chunk.js",
+    "main.js.map": "/DorinHavardi/brandedmembers/static/js/main.6f336ae8.chunk.js.map",
+    "runtime-main.js": "/DorinHavardi/brandedmembers/static/js/runtime-main.ba940078.js",
+    "runtime-main.js.map": "/DorinHavardi/brandedmembers/static/js/runtime-main.ba940078.js.map",
+    "static/js/2.07495ca3.chunk.js": "/DorinHavardi/brandedmembers/static/js/2.07495ca3.chunk.js",
+    "static/js/2.07495ca3.chunk.js.map": "/DorinHavardi/brandedmembers/static/js/2.07495ca3.chunk.js.map",
+    "static/js/3.31f1a093.chunk.js": "/DorinHavardi/brandedmembers/static/js/3.31f1a093.chunk.js",
+    "static/js/3.31f1a093.chunk.js.map": "/DorinHavardi/brandedmembers/static/js/3.31f1a093.chunk.js.map",
+    "index.html": "/DorinHavardi/brandedmembers/index.html",
+    "static/css/main.67bd8c9c.chunk.css.map": "/DorinHavardi/brandedmembers/static/css/main.67bd8c9c.chunk.css.map",
+    "static/js/2.07495ca3.chunk.js.LICENSE.txt": "/DorinHavardi/brandedmembers/static/js/2.07495ca3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba940078.js",
+    "static/js/2.07495ca3.chunk.js",
+    "static/css/main.67bd8c9c.chunk.css",
+    "static/js/main.6f336ae8.chunk.js"
+  ]
+}
